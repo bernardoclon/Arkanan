@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>How I Met Your Mother</title>
+<thumbnail>https://78.media.tumblr.com/tumblr_m9k1dzH1Eo1qfkut1.jpg</thumbnail>
+<fanart>https://2.bp.blogspot.com/-j6wEEpczXPc/VzGmYqCA8iI/AAAAAAAABDI/oiYShxLweO0ybmSSRLUX3eqJeMqm6riHQCK4B/s640/Challenge-Accepted-Barney-Stinson.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/howimetyourmother.xml</externallink>
+</item>
+
+<item>
 <title>Modern Family</title>
 <thumbnail>https://i.pinimg.com/564x/d8/e2/d1/d8e2d1c260566d917c48cdbc1cc243d5.jpg</thumbnail>
 <fanart>http://www.neontommy.com/sites/default/files/users/user609/key_art_modern_family.jpg</fanart>
@@ -9,9 +17,17 @@
 </item>
 
 <item>
-<title>How I Met Your Mother</title>
-<thumbnail>https://78.media.tumblr.com/tumblr_m9k1dzH1Eo1qfkut1.jpg</thumbnail>
-<fanart>https://2.bp.blogspot.com/-j6wEEpczXPc/VzGmYqCA8iI/AAAAAAAABDI/oiYShxLweO0ybmSSRLUX3eqJeMqm6riHQCK4B/s640/Challenge-Accepted-Barney-Stinson.jpg</fanart>
+<title>The Big Bang Theory</title>
+<thumbnail>http://img.fenixzone.net/i/47zvu1D.jpeg</thumbnail>
+<fanart>https://www.gratistodo.com/wp-content/uploads/2017/04/the-big-bang-theory-wallpapers-4.jpg</fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/howimetyourmother.xml</externallink>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/bigbang.xml</externallink>
+</item>
+
+<item>
+<title>Two and a Half Men</title>
+<thumbnail>http://img.fenixzone.net/i/lBLxucp.jpeg</thumbnail>
+<fanart>http://images5.fanpop.com/image/photos/31100000/Two-and-a-Half-Men-two-and-a-half-men-31150892-500-281.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/twomen.xml</externallink>
 </item>
