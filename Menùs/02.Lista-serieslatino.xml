@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>Breaking Bad</title>
+<thumbnail>https://http2.mlstatic.com/breaking-bad-poster-peliculas-afiches-giganto-60x90cm-D_NQ_NP_576625-MLU25484339905_042017-F.jpg</thumbnail>
+<fanart>https://stmed.net/sites/default/files/breaking-bad-wallpapers-31531-2489933.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/breakingbad.xml</externallink>
+</item>
+
+<item>
 <title>Clarissa lo explica todo</title>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51YYYEEBNRL._SY445_.jpg</thumbnail>
 <fanart>http://cdn-wpmsa.defymedia.com/wp-content/uploads/sites/3/2011/07/clarissa-1.jpg</fanart>
