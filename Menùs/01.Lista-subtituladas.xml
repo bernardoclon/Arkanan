@@ -8,7 +8,6 @@
 <externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/drwho.xml</externallink>
 </item>
 
-
 <item>
 <title>How I Met Your Mother</title>
 <thumbnail>https://78.media.tumblr.com/tumblr_m9k1dzH1Eo1qfkut1.jpg</thumbnail>
@@ -23,6 +22,14 @@
 <fanart>http://www.neontommy.com/sites/default/files/users/user609/key_art_modern_family.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/modernfamily.xml</externallink>
+</item>
+
+<item>
+<title>Salem</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VcQakpasL._SY445_.jpg</thumbnail>
+<fanart>http://img.aullidos.com/imagenes/noticias/tw-27667.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/salem.xml</externallink>
 </item>
 
 <item>
