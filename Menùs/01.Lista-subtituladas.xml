@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>Band Of Brothers</title>
+<thumbnail>http://img.fenixzone.net/i/5M1KiYl.jpeg</thumbnail>
+<fanart>http://img.fenixzone.net/i/UlgoKzL.jpeg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/bernardoclon/Arkanan/master/bandb.xml</externallink>
+</item>
+
+<item>
 <title>Britannia</title>
 <thumbnail>http://img.fenixzone.net/i/bn5SUvy.jpeg</thumbnail>
 <fanart>http://img.fenixzone.net/i/MYco60E.jpeg</fanart>
